@@ -40,16 +40,11 @@ See [here](https://ai-benchmark.com/ranking_deeplearning.html) for comparisons w
 ### Macbook Air M1 8Gb memory.  
 
 This is the entry level M1 Macbook Air.  From monitoring the Activity Monitor whilst these tests are running, these tests use a combination of both the CPU and the GPU on the M1 system.
-* 17 mins GPU cores time
-* 45 mins CPU cores time
-
-
-
-
-
-
+* Training score = 1100
 
 ### Mac M1 Mini with 16Gb memory.
+
+* Training score = 1290
 
 
 ## Useful resources
@@ -58,4 +53,3 @@ This is the entry level M1 Macbook Air.  From monitoring the Activity Monitor wh
 * MacOS Tensorflow - https://github.com/apple/tensorflow_macos
 * Tensorflow Metal - https://developer.apple.com/metal/tensorflow-plugin/
 * AI Benchmarks table for comparisons - https://ai-benchmark.com/ranking_deeplearning.html
-* 
